@@ -20,7 +20,7 @@ By now everything should be turned on, and this will appear on the screen.
 
 ![](.gitbook/assets/boot-up-screen.jpg)
 
-## Connect the Laptop to the Projector 
+## Connect the Laptop to the Projector
 
 1. Start the WPS app from the desktop.
 2. Click ‘Connect’
