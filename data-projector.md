@@ -23,28 +23,26 @@ By now everything should be turned on, and this will appear on the screen.
 ## Connect the Laptop to the Projector 
 
 1. Start the WPS app from the desktop.
+2. Click ‘Connect’
+3. Click ‘Cancel’. \(This seems counter-intuitive, but what you’re doing is saying ‘don’t change the way the screen looks.\) 
 
-![](blob:https://gympie-presbyterian.gitbook.io/d17a1bf8-bac6-4f93-ac74-53df52b1b50d)  
- 2. Click ‘Connect’
+![Step 1](.gitbook/assets/wps-desktop.jpg)
 
- ![](blob:https://gympie-presbyterian.gitbook.io/33ce0ef1-b1c7-4399-8232-b74c10e0a054)  
- 3. Click ‘Cancel’. \(This seems counter-intuitive, but what you’re doing is saying ‘don’t change the way the screen looks.\) 
+![Step 2](.gitbook/assets/quick-connect.jpg)
 
-![](blob:https://gympie-presbyterian.gitbook.io/c846338c-0d0b-400e-ac33-4584e28bf1e9)  
+![Step 3 \(click &apos;cancel&apos;\)](.gitbook/assets/cancel-resolution.jpg)
+
 You should now see the background image on the projector screen.
 
 ## Getting Lyrics onto the Projector Screen
 
- 1. Start OpenLP 
-
+1. Start OpenLP 
 2. Double click on the first entry in the Service Manager. Normally this will be Before Service.
-
-![](blob:https://gympie-presbyterian.gitbook.io/3a90fdf9-ee1c-4cbc-bbcd-79d898f0b540)  
- 3. This should start a loop of notices slides. 
-
+3. This should start a loop of notices slides. 
 4. To select the first song, double click on the song title. \(You only need to do this to get out of the loop.\) 
-
 5. From then on you can move through the lyrics of the songs by pressing the down arrow.
+
+![Service Manager \(for Step 2\)](.gitbook/assets/service-manager.jpg)
 
 ## Controlling OpenLP from your Smart Phone
 
@@ -65,5 +63,7 @@ OpenLP can be controlled using your smart phone. All you need is a browser, but 
 1. Begin by typing the title of the song into the search box. 
 2. Select the song you wish to add. 
 3. Click the +button to add the song to Service Manager. \(If you double click on song title it will go to the Preview.\)  
-4. You can reorder the songs in the Service Managerby clicking the blue arrows.![](blob:https://gympie-presbyterian.gitbook.io/e4c2e56f-1a3c-4561-80d0-e4e13cf4903f) 
+4. You can reorder the songs in the Service Managerby clicking the blue arrows.
+
+![Reorder songs using the blue up and down arrows \(Step 4\)](.gitbook/assets/reorder-songs.jpg)
 
