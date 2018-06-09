@@ -12,5 +12,5 @@ This needs to happen immediately following the service.
 * The total amount for both general and missions giving is recorded in the _offering book_.
   * There is no need to record envelope giving seperate from non-enveloped collection.
   * If missions giving is directed towards a particular mission, please note that in the offering record.
-* Once the money is counted, it is given to the person responsible for banking the money that Sunday.
+* Once the money is counted, hand it to the person responsible for banking the money that week.
 
