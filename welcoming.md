@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Church is the gathering of God's people, in the name of God's Son, to hear God's Word. We meet to encourage each other \(Hebrews 10:24-25\).
+Church is the gathering of God's people, in the name of God's Son, to hear God's Word. We also meet to encourage each other \(Hebrews 10:24-25\).
 
 Welcomers are not merely _greeters_. The job is more than just to hand things out, but it's to help people _feel_ welcome, whether it's their first or 500th time with us.
 
