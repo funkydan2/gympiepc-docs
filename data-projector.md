@@ -12,7 +12,7 @@ description: How to setup the data projector at church for song lyrics.
 
    ![The router \(step 1\)](.gitbook/assets/rotuer.jpg)
 
-![The data projector power point \(step 2\)](.gitbook/assets/powerpoint.jpg)
+![The data projector power point \(step 2\)](.gitbook/assets/power-point.jpg)
 
 ![Data projector remote control \(for step 3\). Press the red &apos;Power&apos; button.](.gitbook/assets/dp_remote.jpg)
 

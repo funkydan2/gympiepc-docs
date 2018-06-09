@@ -1,8 +1,5 @@
 ---
-description: >-
-  PurposeAnd let us consider how we may spur one another on toward love and good
-  deeds, not giving up meeting together, as some are in the habit of doing, but
-  encouraging one another—and all the more
+description: Job Description and instructions for Morning Tea
 ---
 
 # Morning Tea
@@ -11,7 +8,7 @@ description: >-
 
 > And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching.\(Hebrews 10:24–25 NIV\)
 
-  
+
 In our Church vision statement, we say that we want to be a church who ‘loves one-another’. We gather as the Church to encourage each other to trust in Jesus and live for him. Part of the way we do this at Gympie Presbyterian is by spending time together over morning tea after the service. The purpose of morning tea isn’t the food or drinks, but it’s developing stronger relationships so we can say with the Apostle that we "share \[…\] not only the gospel of God but our lives as well." \(1 Thessalonians 2:8 NIV\)
 
 ## Job Description
