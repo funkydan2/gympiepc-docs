@@ -49,7 +49,7 @@ Welcomers are not merely _greeters_. The job is more than just to hand things ou
 
 ### After the service
 
-* Make not of newcomers, or people who looked down as they arrived, and make a priority to speak with them.
+* Make note of newcomers, or people who looked down as they arrived, and make a priority to speak with them before you talk with your friends.
 
 
 
