@@ -1,8 +1,8 @@
 # Mowing
 
-Regular mowing is import to give a positive first impression to visitors and newcomers.
+Regular mowing is important to give a positive first impression to visitors and newcomers.
 
-In summer, mowing is rostered on a fortnightly basis, and monthly in winter. 
+In summer, mowing is rostered on a fortnightly basis. In winter, we only need to roster a someone each month.
 
 During the month/fortnight you’re rostered to mow, please mow as often as necessary to keep the churchyard presentable \(hopefully only once per fortnight/month\). 
 
