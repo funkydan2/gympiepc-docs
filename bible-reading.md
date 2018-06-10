@@ -16,3 +16,11 @@ In the _public reading_ of the Bible, we're not only aiming for words to be read
 ### Using a microphone
 
 ### Difficult names
+In the Bible, there are many unususal (to us) names of places and people. The most important thing to know about these names is _no-one knows the *right* way to say them!_, and this means there's no wrong way to pronounce them.
+
+However, these strange words can still throw you when reading the Bible, so here's a few tips.
+
+1. Prepare (see above). If you don't prepare by reading the passage through out-loud, not only will it be difficult to _read for meaning_ but if there are unusal words, you'll get caught out!
+2. Have a go. Since no-one alive today knows the way these names were said, just have a go.
+3. Have a listen. If you have access to an audio Bible, have a listen to hear how it's pronounced there. Once again, this isn't the _right_ way to read these words, and you'll sometimes find some differences between how Australians, Americans, and British people tend to say certain names (you can notice this with well known names like Isaiah).
+4. _Ask for help_. If the passage is going to be preached on, as the preacher how he will pronounce the name (not because he's right, but for consistancy). Ask the minister to tell you how he pronounces the name. 
