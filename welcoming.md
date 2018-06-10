@@ -26,10 +26,10 @@ Welcomers are not merely _greeters_. The job is more than just to hand things ou
   * Are _both_ foyer doors opened?
 * As people arrive:
   * Welcome them with a smile, a handshake, and say something like 'welcome to church'!
-  * Hand them a bulletin \(sometimes there'll be other things to distribute, if that's the case, the minister or an elder will let you know\).
+  * Hand them a bulletin. Sometimes there'll be other things to distribute, if that's the case, the minister or an elder will let you know.
   * Have a brief chat, but be mindful of the small foyer
     * Be careful to not only talk with your friends, but with everyone as they arrive. \(Though there are always some people who want to _sneak in_ unnoticed, and there's no need to make them feel uncomfortable!\)
-* How to help newcomers
+* How to help _newcomers_
   * Introduce yourself
   * Ask them their name
   * Give them a small bit of information about our church:
