@@ -13,4 +13,3 @@ This needs to happen immediately following the service.
   * There is no need to record envelope giving seperate from non-enveloped collection.
   * If missions giving is directed towards a particular mission, please note that in the offering record.
 * Once the money is counted, hand it to the person responsible for banking the money that week.
-
