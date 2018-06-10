@@ -1,4 +1,4 @@
 # Introduction
 
-A collection of documents which give some information about serving and doing things at [Gympie Presbyterian Church](https://gympiepresbyterian.org.au).
+A collection of documents to help members as they serve and do things around [Gympie Presbyterian Church](https://gympiepresbyterian.org.au).
 
