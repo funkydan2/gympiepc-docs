@@ -23,4 +23,9 @@ However, these strange words can still throw you when reading the Bible, so here
 1. Prepare (see above). If you don't prepare by reading the passage through out-loud, not only will it be difficult to _read for meaning_ but if there are unusal words, you'll get caught out!
 2. Have a go. Since no-one alive today knows the way these names were said, just have a go.
 3. Have a listen. If you have access to an audio Bible, have a listen to hear how it's pronounced there. Once again, this isn't the _right_ way to read these words, and you'll sometimes find some differences between how Australians, Americans, and British people tend to say certain names (you can notice this with well known names like Isaiah).
-4. _Ask for help_. If the passage is going to be preached on, as the preacher how he will pronounce the name (not because he's right, but for consistancy). Ask the minister to tell you how he pronounces the name. 
+4. _Ask for help_. If the passage is going to be preached on, as the preacher how he will pronounce the name (not because he's right, but for consistancy). Ask the minister to tell you how he pronounces the name.
+
+## Other Resources
+* [How to read the Bible aloud](http://matthiasmedia.com/briefing/2011/10/how-to-read-the-bible-aloud/) an interview between Tony Payne and Russell Powell
+* [3 Big Ideas and 7 Tips on how to read the Bible in Church](http://gotherefor.com/offer.php?intid=28573)
+* Dave McDonald has some _big ideas_ on the kind of person to [read the Bible in Church](https://au.thegospelcoalition.org/article/reading-the-bible-in-church/)
