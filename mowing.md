@@ -11,3 +11,4 @@ The church owns a mower and whipper-snipper. There are also ear-plugs provided f
 When mowing near buildings and paths, please use the catcher. Place clippings under the mango tree, or in the wheelie bin, or, if you have a trailer, you can bring them to the manse.
 
 If you need to purchase more two-stroke petrol, please keep the receipt and talk with the church treasurer \(Jennene\) about reimbursement. Any other expenses require _pre-approval_ by the treasurer.
+
