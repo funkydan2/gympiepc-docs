@@ -1,7 +1,8 @@
 # Introduction
 
-A collection of documents to help members as they serve and do things around [Gympie Presbyterian Church](https://gympiepresbyterian.org.au).
+A collection of documents to help members as they serve and do things around [Gympie Presbyterian Church](https://gympiepresbyterian.org.au). If it's your first time doing something on the roster, please read through the details of what the task involves. If you've got any question please [get in touch](https://gympiepresbyterian.org.au/home/contact/). Also get in touch if you notice any mistakes or improvements which could be made.
 
-If you're a church or other ministry, you're free to use or adapt any of the documents as you like according to the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+If you're from another church or ministry, you're free to use or adapt any of the documents as you like according to the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
