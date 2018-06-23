@@ -10,11 +10,11 @@ description: How to setup the data projector at church for song lyrics.
 2. Turn power on to the projector
 3. Turn on the projector
 
-   ![The router \(step 1\)](.gitbook/assets/rotuer.jpg)
+![The router \(step 1\)](.gitbook/assets/rotuer.jpg)
 
 ![The data projector power point \(step 2\)](.gitbook/assets/power-point.jpg)
 
-![Data projector remote control \(for step 3\). Press the red &apos;Power&apos; button.](.gitbook/assets/dp_remote.jpg)
+![Data projector remote control \(for step 3\). Press the red power button.](.gitbook/assets/dp_remote.jpg)
 
 By now everything should be turned on, and this will appear on the screen.
 
@@ -24,7 +24,7 @@ By now everything should be turned on, and this will appear on the screen.
 
 1. Start the WPS app from the desktop.
 2. Click ‘Connect’
-3. Click ‘Cancel’. \(This seems counter-intuitive, but what you’re doing is saying ‘don’t change the way the screen looks.\) 
+3. Click ‘Cancel’. \(This seems counter-intuitive, but what you’re doing is saying ‘don’t change the way the screen looks.\)
 
 ![Step 1](.gitbook/assets/wps-desktop.jpg)
 
@@ -36,10 +36,10 @@ You should now see the background image on the projector screen.
 
 ## Getting Lyrics onto the Projector Screen
 
-1. Start OpenLP 
+1. Start OpenLP
 2. Double click on the first entry in the Service Manager. Normally this will be Before Service.
-3. This should start a loop of notices slides. 
-4. To select the first song, double click on the song title. \(You only need to do this to get out of the loop.\) 
+3. This should start a loop of notices slides.
+4. To select the first song, double click on the song title. \(You only need to do this to get out of the loop.\)
 5. From then on you can move through the lyrics of the songs by pressing the down arrow.
 
 ![Service Manager \(for Step 2\)](.gitbook/assets/service-manager.jpg)
@@ -60,10 +60,9 @@ OpenLP can be controlled using your smart phone. All you need is a browser, but 
 
 ## How to Insert Songs in the ‘Service Manager’ of OpenLP
 
-1. Begin by typing the title of the song into the search box. 
-2. Select the song you wish to add. 
-3. Click the +button to add the song to Service Manager. \(If you double click on song title it will go to the Preview.\)  
+1. Begin by typing the title of the song into the search box.
+2. Select the song you wish to add.
+3. Click the +button to add the song to Service Manager. \(If you double click on song title it will go to the Preview.\)
 4. You can reorder the songs in the Service Managerby clicking the blue arrows.
 
 ![Reorder songs using the blue up and down arrows \(Step 4\)](.gitbook/assets/reorder-songs.jpg)
-
