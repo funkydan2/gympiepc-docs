@@ -66,3 +66,4 @@ OpenLP can be controlled using your smart phone. All you need is a browser, but 
 4. You can reorder the songs in the Service Managerby clicking the blue arrows.
 
 ![Reorder songs using the blue up and down arrows \(Step 4\)](.gitbook/assets/reorder-songs.jpg)
+
