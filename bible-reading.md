@@ -45,6 +45,7 @@ For the Bible reading
 * Microphones _support_ your voice. They're not a replacement for clear, confident speech. So speak clearly into the microphone. Think as if you're projecting your voice to the back row.
 * Get _close_. Most microphones work best when they're a few centimetres from your mouth. If you need to adjust the height or angle of the microphone stand, do it! It's better to take a moment to get the microphone right before you start reading, rather than having no-one able to hear God's word being read!
 * Speak _into_ the microphone. I like to think of using a microphone as if I'm speaking down a long tube. So speak as if you're speaking _through_ the microphone.
+* For more details read this short article on [how to talk into a microphone](https://www.lifehacker.com.au/2019/07/how-to-talk-into-a-microphone/).
 
 ### Difficult names
 
