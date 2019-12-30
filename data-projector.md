@@ -82,7 +82,7 @@ If you need to change the order of songs
 1. Begin by typing the title of the song into the search box.
 2. Select the song you wish to add.
 3. Click the +button to add the song to Service Manager. \(If you double click on song title it will go to the Preview.\)
-4. You can reorder the songs in the Service Managerby clicking the blue arrows.
+4. You can reorder the songs in the Service Manager by clicking the blue arrows.
 
 ![Reorder songs using the blue up and down arrows \(Step 4\)](.gitbook/assets/reorder-songs.jpg)
 
