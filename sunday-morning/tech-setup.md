@@ -92,7 +92,7 @@ description: How to setup the sound system and data projector at One Mile State 
 OpenLP can be controlled using your smart phone. All you need is a browser, but there is a dedicated app for both Android and iOS that is much easier to use.
 
 1. Download the OpenLP app from the app store. [iOS](https://itunes.apple.com/us/app/openlp-remote/id1096218725?mt=8) [Android](https://play.google.com/store/apps/details?id=org.openlp.android2)
-2. At church, connect your phone to the internal wifi network. The network name and password are written on peice of cardboard underneath the router. N.b. this network isn't connected to the internet, so you may not be able to access the internet on your phone/tablet whilst connected to this wifi network.
+2. Connect your phone to the *GympiePresbyterian* wifi network. The network name and password are written on a piece of cardboard which is found in the orange and black laptop bag. N.b. this network isn't connected to the internet, so you may not be able to access the internet on your phone/tablet whilst connected to this wifi network.
 3. Start the OpenLP app. In the settings of the app, you need to enter the _Server IP_ address. Enter '192.168.1.11' as the _Server IP_ and '4316' as the _Port_.
 4. You can now control OpenLP from your phone.
 
