@@ -10,48 +10,44 @@ description: How to setup the data projector at church for song lyrics.
 2. Turn power on to the projector
 3. Turn on the projector
 
-![The router \(step 1\)](.gitbook/assets/router.jpg)
+![The router \(step 1\)](../.gitbook/assets/router.jpg)
 
-![The data projector power point \(step 2\)](.gitbook/assets/power-point.jpg)
+![The data projector power point \(step 2\)](../.gitbook/assets/power-point.jpg)
 
-![Data projector remote control \(for step 3\). Press the red power button.](.gitbook/assets/dp_remote.jpg)
+![Data projector remote control \(for step 3\). Press the red power button.](../.gitbook/assets/dp_remote.jpg)
 
 By now everything should be turned on, and this will appear on the screen.
 
-![](.gitbook/assets/boot-up-screen.jpg)
+![](../.gitbook/assets/boot-up-screen.jpg)
 
 ## Connect the Laptop to the Projector
 
-1. Start the WPS app from the dock. (Single 'click'.)
+1. Start the WPS app from the dock. \(Single 'click'.\)
 
-    ![ WPS Dock](.gitbook/assets/dock-wps.png)
+   ![ WPS Dock](../.gitbook/assets/dock-wps.png)
 
 2. The WPS app should open and start searching. If the it doesn't automatically start searching, select `Search Server` from the menu.
 
-    ​    ![Search Server](.gitbook/assets/wps-search.png)
+   ​ ![Search Server](../.gitbook/assets/wps-search.png)
 
 3. Once WPS has connected to the projector, it will request to change the screen resolution. Click `Ok` to change the resolution.
 
-![Step 2](.gitbook/assets/wps-change-resolution.png)
+![Step 2](../.gitbook/assets/wps-change-resolution.png)
 
-The laptop's resolution will now change (to no longer be widescreen). Shortly you should now see the laptop display *duplicated* on the projector screen, and the WPS application displayed as below.
+The laptop's resolution will now change \(to no longer be widescreen\). Shortly you should now see the laptop display _duplicated_ on the projector screen, and the WPS application displayed as below.
 
-![Success!](.gitbook/assets/wps-success.png)
+![Success!](../.gitbook/assets/wps-success.png)
 
 ## Getting Lyrics onto the Projector Screen
 
 1. Start OpenLP
 
-   ![OpenLP in the Dock](.gitbook/assets/dock-openlp.png)
+   ![OpenLP in the Dock](../.gitbook/assets/dock-openlp.png)
 
-2. Double click on the first entry in the Service Manager. Normally this will be *Before Service*.
-  ![Service Manager](.gitbook/assets/openlp-service-manager.png)
-
+2. Double click on the first entry in the Service Manager. Normally this will be _Before Service_. ![Service Manager](../.gitbook/assets/openlp-service-manager.png)
 3. This should start a loop of notices slides.
-
 4. To select the first song, double click on the song title. \(You only need to do this to get out of the loop.\)
-
-5. The service can be controlled from the laptop. The ↓ and ↑ arrows move through slides (e.g. next/previous verse) and the ← and → arrows move *between* items (i.e. previous/next song).
+5. The service can be controlled from the laptop. The ↓ and ↑ arrows move through slides \(e.g. next/previous verse\) and the ← and → arrows move _between_ items \(i.e. previous/next song\).
 
 ## Controlling OpenLP from your Smart Phone
 
@@ -66,23 +62,25 @@ OpenLP can be controlled using your smart phone. All you need is a browser, but 
 
 1. Press the power button on the remote control twice.
 2. Once the image is off the screen, and the fan stops within the projector, you can turn the power off at the switch in the entrance. \(Turning off the projector at the wall without following this procedure will cause the projector to overheat and shorten its lifespan.\)
-3. Shutdown the Laptop by first quitting all applications, and then shutdown the computer (click `Apple→Shutdown`).
-![Quit Application](.gitbook/assets/wps-quit-menu.png)
-![Shutdown Laptop](.gitbook/assets/shutdown.png)
+3. Shutdown the Laptop by first quitting all applications, and then shutdown the computer \(click `Apple→Shutdown`\).
 
-## How to Change Song Order (OpenLP)
+   ![Quit Application](../.gitbook/assets/wps-quit-menu.png)
+
+   ![Shutdown Laptop](../.gitbook/assets/shutdown.png)
+
+## How to Change Song Order \(OpenLP\)
 
 If you need to change the order of songs
 
 1. Select the song in the Service Manager
 2. Click the blue ↓ or ↑ at the bottom of the Service Manager.
 
-## How to Insert Songs (OpenLP)
+## How to Insert Songs \(OpenLP\)
 
 1. Begin by typing the title of the song into the search box.
 2. Select the song you wish to add.
 3. Click the +button to add the song to Service Manager. \(If you double click on song title it will go to the Preview.\)
 4. You can reorder the songs in the Service Manager by clicking the blue arrows.
 
-![Reorder songs using the blue up and down arrows \(Step 4\)](.gitbook/assets/reorder-songs.jpg)
+![Reorder songs using the blue up and down arrows \(Step 4\)](../.gitbook/assets/reorder-songs.jpg)
 

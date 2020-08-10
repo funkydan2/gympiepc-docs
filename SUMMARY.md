@@ -1,11 +1,17 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Welcoming](welcoming.md)
-* [Morning Tea](morning-tea.md)
-* [Bible Reading](bible-reading.md)
-* [Mowing](mowing.md)
-* [Counting Collection](counting-collection.md)
-* [Data Projector](data-projector.md)
-* [Live Streaming](live-stream.md)
+
+## Sunday Morning
+
+* [Welcoming](sunday-morning/welcoming.md)
+* [Morning Tea](sunday-morning/morning-tea.md)
+* [Bible Reading](sunday-morning/bible-reading.md)
+* [Counting Collection](sunday-morning/counting-collection.md)
+* [Live Streaming](sunday-morning/live-stream.md)
+* [Data Projector](sunday-morning/data-projector.md)
+
+## Buildings and Grounds
+
+* [Mowing](buildings-and-grounds/mowing.md)
 

@@ -33,7 +33,7 @@ For the Bible reading
 1. Walk confidently to the microphone.
 2. Start by saying where the Bible reading is found. For example, 
 
-> The Bible reading is from 1 Kings 12, verses 25 to 33. It is on page 262 of the church bibles.  1 Kings 25, starting at verse 25.
+> The Bible reading is from 1 Kings 12, verses 25 to 33. It is on page 262 of the church bibles. 1 Kings 25, starting at verse 25.
 
 1. When you pause, _wait for people to find the passage in their own bible_. Wait for the sound of pages rustling to die down. It may feel like you're waiting _for ever_, but it's not that long.
 2. Speak confidently into the [microphone](bible-reading.md#using-a-microphone).
