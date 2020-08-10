@@ -9,7 +9,7 @@
 * [Bible Reading](sunday-morning/bible-reading.md)
 * [Counting Collection](sunday-morning/counting-collection.md)
 * [Live Streaming](sunday-morning/live-stream.md)
-* [Data Projector](sunday-morning/data-projector.md)
+* [Tech Setup](sunday-morning/tech-setup.md)
 
 ## Buildings and Grounds
 
