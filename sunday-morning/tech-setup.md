@@ -8,16 +8,15 @@ description: How to setup the sound system and data projector at One Mile State 
 
 1. Connect the audio cables into the wall
 
-   1. These are *speakOn* connectors. Connect by pushing into the socket and rotating clockwise until they lock.
-
+   * These are *speakOn* connectors. Connect by pushing into the socket and rotating clockwise until they lock.
 2. Connect the video cable into the wall
 
-   1. This is a VGA connector. Plug in and screw to secure.
+   * This is a VGA connector. Plug in and screw to secure.
 
 3. Plug power into the wall.
 
-   1. Connect the short extension lead into the wall.
-   2. Connect power-board.
+   * Connect the short extension lead into the wall.
+   * Connect power-board.
 
 ![Wall audio and video connection points](../.gitbook/assets/wall-setup.jpg)
 ![Power](../.gitbook/assets/power.jpg)
@@ -26,13 +25,13 @@ description: How to setup the sound system and data projector at One Mile State 
 
 1. Connect the mixing desk to the amplifier
 
-   1. There are two short 'microphone' cable leads, which connect between the rear right-hand side of the amplifier to the top-right hand side of the mixing desk (see below for mixing desk).
+   * There are two short 'microphone' cable leads, which connect between the rear right-hand side of the amplifier to the top-right hand side of the mixing desk (see below for mixing desk).
 
       ![](../.gitbook/assets/amplifier-back-input.jpg)
 
 2. Connect the amplifier to the speakers
 
-   1. Once again these *speakOn* cables connect to the rear of the amplifier by pushing in, then rotating clockwise to secure the connection.
+   * Once again these *speakOn* cables connect to the rear of the amplifier by pushing in, then rotating clockwise to secure the connection.
 
    ![](../.gitbook/assets/amplifier-back-output.jpg)
 
@@ -44,15 +43,16 @@ description: How to setup the sound system and data projector at One Mile State 
    ![](../.gitbook/assets/computer-setup-projector.jpg)
 
 4. Connect the laptops to the mixing desk
+
    1. The small white Windows laptop is used for recording sermon audio.
 
-      1. Connect the grey USB cable between the sound desk (see below) and the laptop.
+      * Connect the grey USB cable between the sound desk (see below) and the laptop.
 
       ![](../.gitbook/assets/computer-setup-audio.jpg)
 
    2. The MacBook is (sometimes) used for video or backing track
 
-      1. Connect the stereo audio output (RCA) cables from the mixing desk into the headphone socket on the MacBook 
+      * Connect the stereo audio output (RCA) cables from the mixing desk into the headphone socket on the MacBook 
 
 5. Setup the mixing desk
 
@@ -68,7 +68,8 @@ description: How to setup the sound system and data projector at One Mile State 
 ## Lower the screen
 
 * The control box for lowering/raising the projector screen is on the left-hand side of the projector screen, attached to the wall up high.
-* Press the down button. The screen will automatically lower.
+
+1. Press the down button. The screen will automatically lower.
 
 ## Turn on the Projector
 
@@ -98,7 +99,7 @@ OpenLP can be controlled using your smart phone. All you need is a browser, but 
 ## Turning off the projector and laptop
 
 1. Press the power button on the remote control twice.
-2. Shutdown the Laptop by first quitting all applications, and then shutdown the computer \(click `Apple→Shutdown`\).
+2. Shutdown the Laptop by first quitting all applications, and then shutdown the computer \(click `→Shutdown`\).
 
 ## How to Change Song Order \(OpenLP\)
 
