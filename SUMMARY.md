@@ -8,8 +8,8 @@
 * [Morning Tea](sunday-morning/morning-tea.md)
 * [Bible Reading](sunday-morning/bible-reading.md)
 * [Counting Collection](sunday-morning/counting-collection.md)
-* [Live Streaming](sunday-morning/live-stream.md)
 * [Tech Setup](sunday-morning/tech-setup.md)
+* [Live Streaming](sunday-morning/live-stream.md)
 
 ## Buildings and Grounds
 
