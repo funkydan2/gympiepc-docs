@@ -1,7 +1,5 @@
 # Welcoming
 
-## Welcoming
-
 ### Purpose
 
 Church is the gathering of God's people, in the name of God's Son, to hear God's Word. We also meet to encourage each other \(Hebrews 10:24-25\).
@@ -24,7 +22,7 @@ Welcomers are not merely _greeters_. The job is more than just to hand things ou
 * Look around the auditorium:
   * Do windows need to be opened?
   * Do fans or heaters need to be turned on/off?
-  * Are there unneccessary books or papers in the seats?
+  * Are there unnecessary books or papers in the seats?
   * Are _both_ foyer doors opened?
 
 #### As people arrive:
@@ -50,12 +48,12 @@ Welcomers are not merely _greeters_. The job is more than just to hand things ou
 * Stay in the foyer until 9:35 or 9:40
 * Count attendance
   * There's a small notebook to record attendance.
-  * We count adults and children seperately.
+  * We count adults and children separately.
     * Children means 'Primary School aged' - but if you don't know the age of a child, just have a guess!
 
 #### After the service
 
-* Make note of newcomers, or people who looked down as they arrived, and make a priority to speak with them before you talk with your friends.
+* Make note of newcomers or people who looked down as they arrived, and make a priority to speak with them before you talk with your friends.
 
 ## Resources
 
