@@ -64,7 +64,7 @@ description: How to setup the sound system and data projector at One Mile State 
 
 ### Turn on the Projector
 
-1. Point the remote control to the front the projector.
+1. Point the remote control to the front of the projector.
 2. Press the red power button until the small green LED on the projector starts blinking or you see some light emitting from the lens.
 
 ### Getting Lyrics onto the Projector Screen
@@ -80,7 +80,7 @@ description: How to setup the sound system and data projector at One Mile State 
 
 ### Controlling OpenLP from your Smart Phone
 
-OpenLP can be controlled using your smart phone. All you need is a browser, but there is a dedicated app for both Android and iOS that is much easier to use.
+OpenLP can be controlled using your smartphone. All you need is a browser, though there is a dedicated app for both Android and iOS that is much easier to use.
 
 1. Download the OpenLP app from the app store. [iOS](https://itunes.apple.com/us/app/openlp-remote/id1096218725?mt=8) [Android](https://play.google.com/store/apps/details?id=org.openlp.android2)
 2. Connect your phone to the _GympiePresbyterian_ wifi network. The network name and password are written on a piece of cardboard which is found in the orange and black laptop bag. N.b. this network isn't connected to the internet, so you may not be able to access the internet on your phone/tablet whilst connected to this wifi network.
@@ -90,7 +90,7 @@ OpenLP can be controlled using your smart phone. All you need is a browser, but 
 ### Turning off the projector and laptop
 
 1. Press the power button on the remote control twice.
-2. Shutdown the Laptop by first quitting all applications, and then shutdown the computer \(click `→Shutdown`\).
+2. Shutdown the Laptop by first quitting all applications, and then shut down the computer \(click `→Shutdown`\).
 
 ### How to Change Song Order \(OpenLP\)
 
@@ -118,8 +118,8 @@ If you need to change the order of songs
 
 4. Test recording.
    1. Press the _Record_ button \(red circle\).
-   2. The green _monitoring_ levels \(top of screen\) will start moving and blue wave forms should appear for the Audio Track.
-   3. You may need to adjust volume so the peaks of the wave form hit around 0.5.
+   2. The green _monitoring_ levels \(top of the screen\) will start moving and blue waveforms should appear for the Audio Track.
+   3. You may need to adjust the volume so the peaks of the waveform hit around 0.5.
 5. Save the file. The file format should be in the format YYYYMMDD\_SermonTitle\_PreacherInitials.
 6. Delete the test recording \(click the small `x` button on the Audio Track\).
 7. The computer is now ready to record.
