@@ -31,14 +31,14 @@ Church provides some biscuits and cakes. However, if you’d like to bring some 
 
 * Turn Urn thermostat up to 100℃
 * Put food on the table. For allergy specific food, please make sure it's labelled and clearly separate.
-* Serve hot drinks from kitchen.
+* Serve hot drinks from the kitchen.
 * Wash up and put away cutlery and crockery.
 
 ## Some Special Notes:
 
 AllergiesThere are a few people with food allergies in our church, including Celiac disease \(gluten\) and egg allergy.
 
-* We have a supply of gluten/lactose/egg-free biscuits. Since only a few people are allergic to these foods, please put out a few biscuits on a well labelled plate for those requiring this food. 
+* We have a supply of gluten/lactose/egg-free biscuits. Since only a few people are allergic to these foods, please put out a few biscuits on a well-labelled plate for those requiring this food. 
 * Please be mindful of cross-contamination. Keep cutlery and plates containing egg or gluten products away from the allergy specific foods.
 
 ### Church Lunch
