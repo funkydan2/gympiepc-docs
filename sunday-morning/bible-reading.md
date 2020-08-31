@@ -4,7 +4,7 @@
 
 > Until I come, devote yourself to the public reading of Scripture, to preaching and to teaching. \([1 Timothy 4:13 NIV](https://ref.ly/1Tim4.13)\)
 
-Church is gathering of God's people _around God's word_. When we gather, one of the most important things we do is hear God speak. In the past, God spoke in many ways, and he speaks to us chiefly through Jesus \([Hebrews 1:1-2](https://ref.ly/Heb1.1-2)\). Through the Bible, God continues to speak \([1 Timothy 3:16](https://ref.ly/1Tim3.16)\).
+Church is the gathering of God's people _around God's word_. When we gather, one of the most important things we do is hear God speak. In the past, God spoke in many ways, and he speaks to us chiefly through Jesus \([Hebrews 1:1-2](https://ref.ly/Heb1.1-2)\). Through the Bible, God continues to speak \([1 Timothy 3:16](https://ref.ly/1Tim3.16)\).
 
 In the _public reading_ of the Bible, we're not only aiming for words to be read and heard but for the Bible to be read in a way that helps _hearers_ understand. We're reading for _meaning_.
 
@@ -18,13 +18,13 @@ So, you've just been asked to read the Bible at church this coming Sunday. What 
    1. Are there any [difficult names](bible-reading.md#difficult-names)?
    2. What is the big idea or main point of the passage? How can my reading help people hear this?
    3. What are the _emotions_ in the passage? Is it joyful, angry, sad, etc.? How can you read in a way to express this?
-4. Think about the meaning of the passage. You may like to ask the preacher/minister, or read a commentary to help you understand the main point and emotions of the passage.
+4. Think about the meaning of the passage. You may like to ask the preacher/minister or read a commentary to help you understand the main point and emotions of the passage.
 5. Mark up the passage. Where should you pause? What words will you emphasise? Are there sections to read more quickly or slowly?
-6. Read out load _two or three more times_!
+6. Read out loud _two or three more times_!
 
 ## At Church
 
-1. Bring your marked-up bible passage.
+1. Bring your marked-up Bible passage.
 2. Arrive early - say around 15 minutes before the service. \(It helps the service leader not to panic!!\)
 3. Test the microphone. If it's not turned on, or you think it won't be loud enough, check with the service leader about how to fix it.
 
@@ -56,12 +56,12 @@ However, these strange words can still throw you when reading the Bible, so here
 1. Prepare \(see above\). If you don't prepare by reading the passage through out-loud, not only will it be difficult to _read for meaning_ but if there are unusual words, you'll get caught out!
 2. Have a go. Since no-one alive today knows the way these names were said, just have a go.
 3. Have a listen. If you have access to an audio Bible, have a listen to hear how it's pronounced there. Once again, this isn't the _right_ way to read these words, and you'll sometimes find some differences between how Australians, Americans, and British people tend to say certain names \(you can notice this with well-known names like Isaiah\).
-4. _Ask for help_. If the passage is going to be preached on, as the preacher how he will pronounce the name \(not because he's right, but for consistancy\). Ask the minister to tell you how he pronounces the name.
+4. _Ask for help_. If the passage is going to be preached on, ask the preacher how he will pronounce the name \(not because he's right, but for consistency\).
 
 ## Other Resources
 
 * [How to read the Bible aloud](http://matthiasmedia.com/briefing/2011/10/how-to-read-the-bible-aloud/) an interview between Tony Payne and Russell Powell
 * [3 Big Ideas and 7 Tips on how to read the Bible in Church](http://gotherefor.com/offer.php?intid=28573)
 * Dave McDonald has some _big ideas_ on the kind of person to [read the Bible in Church](https://au.thegospelcoalition.org/article/reading-the-bible-in-church/)
-* [Five Tips for Better Public Scripture Reading](https://www.9marks.org/article/five-tips-for-better-public-scripture-readings/) \(9 Marks\). This article isn't about _practical_ tips but is very good on what we're doing in reading the Bible at church.
+* [Five Tips for Better Public Scripture Reading](https://www.9marks.org/article/five-tips-for-better-public-scripture-readings/) \(9 Marks\). This article isn't about _practical_ tips but is very good at expressing what we're doing in reading the Bible at church.
 
