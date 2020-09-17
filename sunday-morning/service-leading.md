@@ -45,5 +45,7 @@ The task of leading the service is to help the congregation connect with God and
 
 ## Further Reading
 
-[Ten Tips for Leading Church Well \(Matthias Media\)](https://gotherefor.com/offer.php?intid=29247&changestore=true)
+[Ten Tips for Leading Church Well](https://gotherefor.com/offer.php?intid=29247&changestore=true) - Some very helpful tips from Rory Shriner \(Matthias Media)
+
+[Are We Shooting Ourselves in the Foot](https://ap.org.au/2020/08/27/are-we-shooting-ourselves-in-the-foot/) - Some critical reflections, with good suggestions, from Simon Manchester (Australian Presbyterian).
 
