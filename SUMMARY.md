@@ -4,13 +4,18 @@
 
 ## Sunday Morning
 
-* [Welcoming](sunday-morning/welcoming.md)
-* [Service Leading](sunday-morning/service-leading.md)
-* [Bible Reading](sunday-morning/bible-reading.md)
-* [Morning Tea](sunday-morning/morning-tea.md)
-* [Counting Collection](sunday-morning/counting-collection.md)
-* [Tech Setup](sunday-morning/tech-setup.md)
-* [Live Streaming](sunday-morning/live-stream.md)
+### Team Leaders
+* [Morning Tea Leader](sunday-morning/leaders/morning-tea.md)
+
+### Tasks
+
+* [Welcoming](sunday-morning/tasks/welcoming.md)
+* [Service Leading](sunday-morning/tasks/service-leading.md)
+* [Bible Reading](sunday-morning/tasks/bible-reading.md)
+* [Morning Tea](sunday-morning/tasks/morning-tea.md)
+* [Counting Collection](sunday-morning/tasks/counting-collection.md)
+* [Tech Setup](sunday-morning/tasks/tech-setup.md)
+* [Live Streaming](sunday-morning/tasks/live-stream.md)
 
 ## Buildings and Grounds
 
