@@ -16,11 +16,11 @@ A few ways this shapes our practice are:
 
 1. We'll use 'outsider friendly' language. We'll introduce ourself by name and welcome visitors—even if we can't see any. We won't use too many technical/jargon words or phrases \(or we'll explain them\)—this includes both theological terms and acronyms/shorthand ways of talking about what we do as a church. We don't assume everyone is a believer, so we'll be thinking about who the 'we' is when we speak.
 2. The gospel shapes our service as we 
-   1. come to God in repentance and faith \(Mark 1:15)
-   2. sing to him with thankfulness \(Ephesians 5:19)
+   1. come to God in repentance and faith \(Mark 1:15\)
+   2. sing to him with thankfulness \(Ephesians 5:19\)
    3. cast our anxieties upon him \(1 Peter 5:7\)
    4. hear his voice in the reading, preaching, and teaching of his word \(1 Timothy 4:13\)
-   5. respond to his voice with faith and obedience (John 10:27)
+   5. respond to his voice with faith and obedience \(John 10:27\)
 3. The 'big idea' of the sermon will shape things like the songs we sing, the topics covered in prayers etc.
 
 ## Job Description
@@ -45,7 +45,7 @@ The task of leading the service is to help the congregation connect with God and
 
 ## Further Reading
 
-[Ten Tips for Leading Church Well](https://gotherefor.com/offer.php?intid=29247&changestore=true) - Some very helpful tips from Rory Shriner \(Matthias Media)
+[Ten Tips for Leading Church Well](https://gotherefor.com/offer.php?intid=29247&changestore=true) - Some very helpful tips from Rory Shriner \(Matthias Media\)
 
-[Are We Shooting Ourselves in the Foot](https://ap.org.au/2020/08/27/are-we-shooting-ourselves-in-the-foot/) - Some critical reflections, with good suggestions, from Simon Manchester (Australian Presbyterian).
+[Are We Shooting Ourselves in the Foot](https://ap.org.au/2020/08/27/are-we-shooting-ourselves-in-the-foot/) - Some critical reflections, with good suggestions, from Simon Manchester \(Australian Presbyterian\).
 

@@ -2,20 +2,19 @@
 
 * [Introduction](README.md)
 
-## Sunday Morning
+## Team Leaders
 
-### Team Leaders
-* [Morning Tea Leader](sunday-morning/leaders/morning-tea.md)
+* [Morning Tea Leader](team-leaders/morning-tea.md)
 
-### Tasks
+## Tasks
 
-* [Welcoming](sunday-morning/tasks/welcoming.md)
-* [Service Leading](sunday-morning/tasks/service-leading.md)
-* [Bible Reading](sunday-morning/tasks/bible-reading.md)
-* [Morning Tea](sunday-morning/tasks/morning-tea.md)
-* [Counting Collection](sunday-morning/tasks/counting-collection.md)
-* [Tech Setup](sunday-morning/tasks/tech-setup.md)
-* [Live Streaming](sunday-morning/tasks/live-stream.md)
+* [Welcoming](tasks/welcoming.md)
+* [Service Leading](tasks/service-leading.md)
+* [Bible Reading](tasks/bible-reading.md)
+* [Morning Tea](tasks/morning-tea.md)
+* [Counting Collection](tasks/counting-collection.md)
+* [Tech Setup](tasks/tech-setup.md)
+* [Live Streaming](tasks/live-stream.md)
 
 ## Buildings and Grounds
 

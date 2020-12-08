@@ -20,7 +20,7 @@ Under COVID Safe guidelines, church provides individually wrapped biscuits, and 
 
 * Arrive early \(around 9:15 am\)
 * Wash hands
-* Setup jug, cups, tea/coffee, biscuits etc. from the plastic storage tub (stored in hall).
+* Setup jug, cups, tea/coffee, biscuits etc. from the plastic storage tub \(stored in hall\).
 * Fill plastic jug/s with water and/or cordial, and put in the fridge to cool.
 
 ### After service:
@@ -31,7 +31,7 @@ Under COVID Safe guidelines, church provides individually wrapped biscuits, and 
 
 ## Some Special Notes:
 
-###Allergies
+### Allergies
 
 There are a few people with food allergies in our church, including Celiac disease \(gluten\) and egg allergy.
 
@@ -42,11 +42,11 @@ There are a few people with food allergies in our church, including Celiac disea
 
 On Sundays when we have a BYO church lunch, we'll still serve morning tea.
 
-### Birthday Cake (currently on hold)
+### Birthday Cake \(currently on hold\)
 
 We have a tradition of celebrating birthday’s on the Sunday each month. On this Sunday, a birthday cake is normally made by Matthew Harris. If you’re rostered for morning tea on a first Sunday, you don’t need to provide much sweet food \(by ‘not much’ we really mean there’s no need for any other sweet snacks!\).
 
-### Lord’s Supper (currently using single-serve elements)
+### Lord’s Supper \(currently using single-serve elements\)
 
 \(Check with minister or elder.\) When we have the Lord’s Supper, you may be required to bring bread. Four or five slices of white bread cut into small squares is enough. Grape juice is stored in the freeze and hopefully will have been defrosted before Sunday. You may be asked to help fill cups for the Lord’s Supper. Following the service, the glass cups require washing.
 
