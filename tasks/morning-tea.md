@@ -44,7 +44,7 @@ On Sundays when we have a BYO church lunch, we'll still serve morning tea.
 
 ### Birthday Cake \(currently on hold\)
 
-We have a tradition of celebrating birthday’s on the Sunday each month. On this Sunday, a birthday cake is normally made by Matthew Harris. If you’re rostered for morning tea on a first Sunday, you don’t need to provide much sweet food \(by ‘not much’ we really mean there’s no need for any other sweet snacks!\).
+We have a tradition of celebrating birthday’s on the first Sunday each month. On this Sunday, a birthday cake is normally made by Matthew Harris. If you’re rostered for morning tea on a first Sunday, you don’t need to provide much sweet food \(by ‘not much’ we really mean there’s no need for any other sweet snacks!\).
 
 ### Lord’s Supper \(currently using single-serve elements\)
 
