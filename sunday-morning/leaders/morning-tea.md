@@ -23,7 +23,7 @@ As *team leader* you are encouraged to invite people to join the morning tea tea
 
 ### Train
 
-New team members will require training in how to setup, serve, and clean-up, particularly following the COVID-Safe guidelines. The team leader is responsible to ensure that new team members are trained to understand how to make morning tea work. [This job description](../team/morning-tea.html) summarises the tasks which occur weekly as part of this role.
+New team members will require training in how to setup, serve, and clean-up, particularly following the COVID-Safe guidelines. The team leader is responsible to ensure that new team members are trained to understand how to make morning tea work. [This job description](sunday-morning/team/morning-tea.html) summarises the tasks which occur weekly as part of this role.
 
 ### Roster
 
