@@ -16,7 +16,7 @@ To setup and clean up for morning tea after our churches service.
 
 ### Before the service:
 
-Under COVID Safe guidelines, church provides individually wrapped biscuits, and serves hot and cold drinks in single-use cups.
+Under COVID Safe guidelines, church provides individually wrapped biscuits and serves hot and cold drinks in single-use cups.
 
 * Arrive early \(around 9:15 am\)
 * Wash hands
@@ -28,6 +28,10 @@ Under COVID Safe guidelines, church provides individually wrapped biscuits, and 
 * Wash/sanitise hands.
 * Ensure when serving food/drinks that only those rostered, who have sanitised hands, are touching food and utensils.
 * Serve food and drinks in a way which eliminates people touching utensils other than their own.
+
+## Reporting
+
+Those serving with morning tea report to the [team leader](../team-leaders/morning-tea.md) who is responsible for recruiting, training, and rostering team members, and ensuring stock of morning tea and cleaning supplies.
 
 ## Some Special Notes:
 
