@@ -1,3 +1,7 @@
+---
+description: How to welcome at church
+---
+
 # Welcoming
 
 ### Purpose
@@ -17,43 +21,52 @@ Welcomers are not merely _greeters_. The job is more than just to hand things ou
 
 #### When you arrive
 
-* Arrive at 9 am
+* Arrive at 8:50 am
+* Setup the welcoming table
+  * Welcome box is in the side store room.
+  * Folding tables are in the rear store room
+  * Place giving box, notices, and other hand outs on the table
+* Setup bathrooms & hand sanitiser
+  * Place hand wash in both bathrooms.
+  * Place hand sanitiser on the welcome table and morning tea area.
+* Put up COVID safe signs
+  * On welcome table
+  * On all entry doors
+* Look around the hall
+  * Are chairs neatly arranged?
+  * Does the fan need to be turned on/off?
 * Put on a welcoming smile!
-* Look around the auditorium:
-  * Do windows need to be opened?
-  * Do fans or heaters need to be turned on/off?
-  * Are there unnecessary books or papers in the seats?
-  * Are _both_ foyer doors opened?
 
 #### As people arrive:
 
-* Welcome them with a smile, a handshake, and say something like 'welcome to church'!
+* Welcome them with a smile and say something like 'welcome to church'!
+* Ensure contact tracing details are taken down
+  * Filling out the electronic form is preferred, though ticking off attendance or writing down details of visitors is fine.
 * Hand them a bulletin. Sometimes there'll be other things to distribute, if that's the case, the minister or an elder will let you know.
-* Have a brief chat, but be mindful of the small foyer
-  * Be careful to not only talk with your friends, but with everyone as they arrive. \(Though there are always some people who want to _sneak in_ unnoticed, and there's no need to make them feel uncomfortable!\)
 
 #### How to help _newcomers_
 
 * Introduce yourself
 * Ask them their name
 * Give them a small bit of information about our church:
-  * Let them know where the bathrooms are
-  * If they have children, tell them about Sunday School
-  * Offer them a copy of _The Essential Jesus_ or one of the evangelistic tracts we have in the foyer. If they have children, there are copies of the _Good News Parcel Company_ DVD to give away.
+  * Let them know where the bathrooms are,
+  * If they have children, tell them about Sunday School,
+  * Offer them a copy of _The Essential Jesus_ or an evangelistic tract. If they have children, there are copies of the _Good News Parcel Company_ DVD to give away.
 * Introduce them to another regular at church \(try to choose someone you think they'll find it easy to make conversation with\).
-* Show them to a seat _and introduce them to someone sitting nearby!_
 
 #### During the service
 
-* Stay in the foyer until 9:35 or 9:40
-* Count attendance
-  * There's a small notebook to record attendance.
-  * We count adults and children separately.
-    * Children means 'Primary School aged' - but if you don't know the age of a child, just have a guess!
+* Stay at the welcome table until 9:35 or 9:40
+* When you leave the welcome table, take the giving box to the front of the hall.
 
 #### After the service
 
 * Make note of newcomers or people who looked down as they arrived, and make a priority to speak with them before you talk with your friends.
+* Help with packing up
+  * Packup welcome table
+  * Collect COVID signage from doors
+  * Remove hand wash from bathrooms and sanitiser from morning tea area
+  * Return welcome box to the side store room and the table to the rear store room.
 
 ## Resources
 
