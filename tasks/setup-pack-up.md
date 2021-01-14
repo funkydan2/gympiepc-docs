@@ -8,9 +8,9 @@ To create a safe, welcoming space for God's people (and those not-yet-God's peop
 
 The role of *setup* is to create this space. The role of *pack up* is to show respect and care to the One Mile State School community, by leaving the hall in the same condition in which we found it.
 
-## Details
+# Details
 
-### Set up
+## Set up
 
 * Arrive at 8:30 am
 * Open all doors and louvers
@@ -21,11 +21,12 @@ The role of *setup* is to create this space. The role of *pack up* is to show re
   * Return all chair trolleys to store room
 * Put a bin liner (and a spare if needed) in the bin near the rear of the hall. (Bin liners are in the welcoming box.)
 
-# Close up
+## Close up
 
 * For COVID Safe procedures, all chairs must be wiped with sanitising wipes before storing away. (Cleaning products are in the welcoming box.)
 * Stack chairs directly onto the chair trolleys in stacks of **twenty** chairs.
   * Wheel chairs back into store room, and place in a single-file along the left hand wall.
+* Turn off the fan
 * Sweep the floor
   * Brooms are found in the cleaning cupboard, next to the store room.
   * Sweep hall, and use a dustpan to put the rubbish in the bin.
@@ -33,3 +34,4 @@ The role of *setup* is to create this space. The role of *pack up* is to show re
   * Empty contents of bathroom bins into the main bin.
   * Remove liner of main bin for disposal.
   * Replace liner of main bin.
+
