@@ -13,6 +13,7 @@
 * [Bible Reading](tasks/bible-reading.md)
 * [Morning Tea](tasks/morning-tea.md)
 * [Counting Collection](tasks/counting-collection.md)
+* [Setup and Pack up](tasks/setup-pack-up.md)
 * [Tech Setup](tasks/tech-setup.md)
 * [Live Streaming](tasks/live-stream.md)
 
