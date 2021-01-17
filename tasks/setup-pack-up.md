@@ -15,7 +15,7 @@ The role of *setup* is to create this space. The role of *pack up* is to show re
 * Arrive at 8:30 am
 * Open all doors and louvers
 * (If necessary) turn on the BA Fan. The key for the control box hangs in the store room. The control box is on the rear wall (near light switches).
-* Bring out chairs  and lectern from store room.
+* Bring out chairs and lectern from store room.
   * Place chairs in rows of five, three rows across and six deep
   * For COVID Safe physical distancing, ensure rows are 1.5 metres apart. (You can measure 1.5m by placing three chairs next to each other.)
   * Return all chair trolleys to store room
