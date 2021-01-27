@@ -2,7 +2,11 @@
 description: How to setup the sound system and data projector at One Mile State School
 ---
 
-# Tech Setup
+# Tech (Sound and Data Projector)
+
+## Purpose
+
+Christians gather to hear God's word ([Acts 2:42](//ref.ly/acts2.42)), to sing God's praise to one-another ([Ephesians 5:19](//ref.ly/eph5.19), [Colossians 3:16](//ref.ly/col3.16)), to pray ([Acts 2:42](//ref.ly/acts2.42)) and to encourage one another ([Hebrews 10:24-25](//ref.ly/heb10.24-25)). For these things to happen we need to be able to hear what's being said and see/read God's Word and the words we sing together. The goal in running the sound/data projector at church is to allow these parts of our gathering to happen smoothly, so the whole church can focus on growing in knowing God, and loving one another.
 
 ## Plug in the cables
 
@@ -40,11 +44,12 @@ description: How to setup the sound system and data projector at One Mile State 
 4. Connect the laptops to the mixing desk
    1. The small white Windows laptop is used for recording sermon audio.
 
-      * Connect the grey USB cable between the sound desk \(see below\) and the laptop.
+      * ~~Connect the grey USB cable between the sound desk \(see below\) and the laptop.~~ (Edit January 2021: the audio recording is now via an [analogue RCA cable](https://www.cablewholesale.com/products/audio-video-products/audio-video-cables/product-2rca-ste-1.php) plugged into the silver 'microphone input' on the small laptop.)
 
       ![](../.gitbook/assets/computer-setup-audio.jpg)
 
    2. The MacBook is \(sometimes\) used for video or backing track
+      
       * Connect the stereo audio output \(RCA\) cables from the mixing desk into the headphone socket on the MacBook 
 5. Setup the mixing desk
 
@@ -54,6 +59,8 @@ description: How to setup the sound system and data projector at One Mile State 
    4. Set volume levels using the faders at the bottom of each channel. Master volume is controlled by the **red** fader on the right side.
 
    ![](../.gitbook/assets/mixer.jpg)
+
+(Edit January 2021: We now have a different mixing desk.)
 
 ## Data Projector
 
@@ -110,17 +117,24 @@ If you need to change the order of songs
 
 ## Record Sermon Audio
 
-1. Start Audacity \(Blue and Orange icon\)
-2. Select _USB Audio Codec_ from the input/microphone drop down.
-3. Set _input_ volume to 0.90
+1. Ensure the cable from the mixing desk is plugged in **before starting Audacity** (step 2).
+
+2. Start Audacity \(Blue and Orange icon\)
+
+3. ~~Select _USB Audio Codec_ from the input/microphone drop down.~~ (Edit January 2021: since we're using the microphone socket, this step is no longer necessary.)
+
+4. Set _input_ volume to approximately 0.80
 
    ![](../.gitbook/assets/audacity-input.png)
 
-4. Test recording.
+5. Test recording.
    1. Press the _Record_ button \(red circle\).
    2. The green _monitoring_ levels \(top of the screen\) will start moving and blue waveforms should appear for the Audio Track.
-   3. You may need to adjust the volume so the peaks of the waveform hit around 0.5.
-5. Save the file. The file format should be in the format YYYYMMDD\_SermonTitle\_PreacherInitials.
-6. Delete the test recording \(click the small `x` button on the Audio Track\).
-7. The computer is now ready to record.
+   3. You may need to adjust the volume so the peaks of the waveform hit around 0.5 and never hit the top.
+
+6. Save the file. The file format should be in the format YYYYMMDD\_SermonTitle\_PreacherInitials.
+
+7. Delete the test recording \(click the small `x` button on the Audio Track\).
+
+8. The computer is now ready to record.
 
