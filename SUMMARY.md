@@ -4,7 +4,7 @@
 
 ## Team Leaders
 
-* [Welcome Leader](team-leaders/welcome.md)
+* [Welcoming Leader](team-leaders/welcome.md)
 * [Morning Tea Leader](team-leaders/morning-tea.md)
 
 ## Tasks
