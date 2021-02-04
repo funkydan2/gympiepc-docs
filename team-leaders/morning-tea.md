@@ -2,17 +2,15 @@
 description: 'Job description and role for Team Leader: Morning Tea'
 ---
 
-# Morning Tea Leader
+# Team Leader: Morning Tea
 
-## Team Leader: Morning Tea
-
-### Overview
+## Overview
 
 > And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching. \(Hebrews 10:24–25 NIV\)
 
-In our church's vision statement, we say that we want to be a church who ‘loves one-another’. We gather as the Church to encourage each other to trust in Jesus and live for him. Part of the way we do this at Gympie Presbyterian is by spending time together over morning tea after the service. The purpose of morning tea isn’t the food or drinks, but it’s developing stronger relationships so we can say with the Apostle that we "share \[…\] not only the gospel of God but our lives as well." \(1 Thessalonians 2:8 NIV\)
+In our church's vision statement, we say that we want to be a church who ‘loves one-another’. We gather as church to encourage each other to trust in Jesus and live for him. Part of the way we do this at Gympie Presbyterian is by spending time together over morning tea. The purpose of morning tea isn’t the food or drinks, but it’s developing stronger relationships so we can say with the Apostle that we "share \[…\] not only the gospel of God but our lives as well." \(1 Thessalonians 2:8 NIV\)
 
-### Responsibilities
+## Responsibilities
 
 The responsibility of a team leader is to _recruit_ church members to serve in this ministry area, _train_ people to competently serve, and maintain a _roster_. It is also the team leaders job to ensure we have enough _supplies_ for morning tea.
 
@@ -38,18 +36,18 @@ Our church provides
 * Coffee
 * Sugar
 * Cordial
-* Single-serve biscuits
+* ~~Single-serve biscuits~~
 * Cleaning supplies
 
 for morning tea.
 
 The team leader is responsible for stocking these supplies \(either personally or by delegation\). Our Church has an account with [Gympie Packaging](https://gympiepackaging.com.au) \(on Tozer Street\), where most supplies can be purchased.
 
-### Reporting
+## Reporting
 
-The morning tea team leader reports to the Session.
+The morning tea team leader reports to the Session, and is accountable to the Committee of Management for finances.
 
-### Review
+## Review
 
-The Session will review this ministry area at least annually.
+The Session and Committee of Management will review this ministry area at least annually.
 
