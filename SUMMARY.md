@@ -1,4 +1,4 @@
-# Table of contents
+# Table of Contents
 
 * [Introduction](README.md)
 
@@ -7,7 +7,7 @@
 * [Welcoming Leader](team-leaders/welcome.md)
 * [Morning Tea Leader](team-leaders/morning-tea.md)
 
-## Tasks
+## Team Roles - Church
 
 * [Welcoming](tasks/welcoming.md)
 * [Service Leading](tasks/service-leading.md)
