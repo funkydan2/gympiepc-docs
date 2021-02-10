@@ -42,3 +42,4 @@ The welcome team leader reports to the Session.
 
 The Session will review this ministry area at least annually.
 
+(Last reviewed by Session: February 2021)
