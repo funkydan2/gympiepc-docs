@@ -18,7 +18,7 @@ To setup and clean up for morning tea after our churches service.
 
 Under COVID Safe guidelines, church provides individually wrapped biscuits and serves hot and cold drinks in single-use cups.
 
-* Arrive early \(around 9:15 am\)
+* Arrive early \(around 9:00 am\)
 * Wash hands
 * Setup jug, cups, tea/coffee, biscuits etc. from the plastic storage tub \(stored in hall\).
 * Fill plastic jug/s with water and/or cordial, and put in the fridge to cool.
