@@ -19,7 +19,6 @@ The role of *setup* is to create this space. The role of *pack up* is to show re
   * Place chairs in rows of five, three rows across and six deep
   * For COVID Safe physical distancing, ensure rows are 1.5 metres apart. (You can measure 1.5m by placing three chairs next to each other.)
   * Return all chair trolleys to store room
-* Put a bin liner (and a spare if needed) in the bin near the rear of the hall. (Bin liners are in the welcoming box.)
 
 ## Close up
 

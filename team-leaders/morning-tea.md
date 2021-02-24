@@ -26,7 +26,7 @@ New team members will require training in how to set up, serve, and clean-up, pa
 
 #### Roster
 
-The morning tea team leader is responsible for rostering two people on to serve morning tea each week. You may either maintain the roster in our Elvanto database directly \(ask the minister to be trained in this\) or use another method and communicate the roster \(and changes\) to the minister for inclusion in Elvanto.
+The morning tea team leader is responsible for rostering two people on to serve morning tea each week. You may either maintain the roster in our [Elvanto](https://gympiepc.elvanto.com.au/) database directly \(ask the minister to be trained in this\) or use another method and communicate the roster \(and changes\) to the minister for inclusion in [Elvanto](https://gympiepc.elvanto.com.au/).
 
 #### Supplies
 
@@ -35,6 +35,7 @@ Our church provides
 * Tea
 * Coffee
 * Sugar
+* Disposable cups (both for hot and cold drinks)
 * Cordial
 * ~~Single-serve biscuits~~
 * Cleaning supplies
@@ -51,3 +52,4 @@ The morning tea team leader reports to the Session, and is accountable to the Co
 
 The Session and Committee of Management will review this ministry area at least annually.
 
+(Last reviewed by Committee of Management: February 
