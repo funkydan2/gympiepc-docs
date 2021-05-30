@@ -6,7 +6,7 @@ description: How to setup the sound system and data projector at One Mile State 
 
 ## Purpose
 
-Christians gather to hear God's word \([Acts 2:42](https://github.com/funkydan2/gympiepc-docs/tree/6a6000e8a23d5dcb5fd6983be9ecce0a8f230fda/ref.ly/acts2.42)[Ephesians 5:19](https://github.com/funkydan2/gympiepc-docs/tree/6a6000e8a23d5dcb5fd6983be9ecce0a8f230fda/ref.ly/eph5.19), [Colossians 3:16](https://github.com/funkydan2/gympiepc-docs/tree/6a6000e8a23d5dcb5fd6983be9ecce0a8f230fda/ref.ly/col3.16)\), to pray \([Acts 2:42](https://github.com/funkydan2/gympiepc-docs/tree/6a6000e8a23d5dcb5fd6983be9ecce0a8f230fda/ref.ly/acts2.42)\) and to encourage one another \([Hebrews 10:24-25](https://github.com/funkydan2/gympiepc-docs/tree/6a6000e8a23d5dcb5fd6983be9ecce0a8f230fda/ref.ly/heb10.24-25)\). For these things to happen we need to be able to hear what's being said and see/read God's Word and the words we sing together. The goal in running the sound/data projector at church is to allow these parts of our gathering to happen smoothly, so the whole church can focus on growing in knowing God, and loving one another.
+Christians gather to hear God's word \([Acts 2:42](https://ref.ly/acts2.42), [Ephesians 5:19](https://ref.ly/eph5.19), [Colossians 3:16](https://ref.ly/col3.16)\), to pray \([Acts 2:42](https://ref.ly/acts2.42)\) and to encourage one another \([Hebrews 10:24-25](https://ref.ly/heb10.24-25)\). For these things to happen we need to be able to hear what's being said and see/read God's Word and the words we sing together. The goal in running the sound/data projector at church is to allow these parts of our gathering to happen smoothly, so the whole church can focus on growing in knowing God, and loving one another.
 
 ## Connect the cables
 
