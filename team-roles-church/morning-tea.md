@@ -16,9 +16,9 @@ To setup and clean up for morning tea after our churches service.
 
 ### Before the service:
 
-* Arrive early \(around 9:00 am)
+* Arrive early \(around 9:00 am\)
 * Bring Morning Tea supply boxes from store room to kitchen.
-* Put a bin liner (and a spare if needed) in the bin near the rear of the hall and in the kitchen.
+* Put a bin liner \(and a spare if needed\) in the bin near the rear of the hall and in the kitchen.
 * Wash hands
 * Setup jug, cups, tea/coffee, biscuits etc. from the plastic storage tub \(stored in hall\)
 * Fill plastic jug/s with water and/or cordial, and put in the fridge to cool.
@@ -73,4 +73,5 @@ We have a tradition of celebrating birthday’s on the first Sunday each month. 
 
 ## Review
 
-(Last reviewed by Committee of Management: February 2021)
+\(Last reviewed by Committee of Management: February 2021\)
+

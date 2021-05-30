@@ -76,5 +76,5 @@ Welcomers are not merely _greeters_. The job is more than just to hand things ou
 * Some thoughts on how we need to [Keep On Welcoming](http://gotherefor.com/offer.php?intid=28873) beyond the first time a person visits.
 * How not to be [The Church In the Fridge](https://sydneyanglicans.net/blogs/graceflow/the-church-in-the-fridge)
 
-(Last reviewed by Session: February 2021)
+\(Last reviewed by Session: February 2021\)
 

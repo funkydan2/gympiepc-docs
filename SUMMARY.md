@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of contents
 
 * [Introduction](README.md)
 
@@ -9,14 +9,14 @@
 
 ## Team Roles - Church
 
-* [Welcoming](tasks/welcoming.md)
-* [Service Leading](tasks/service-leading.md)
-* [Bible Reading](tasks/bible-reading.md)
-* [Morning Tea](tasks/morning-tea.md)
-* [Counting Collection](tasks/counting-collection.md)
-* [Setup and Pack up](tasks/setup-pack-up.md)
-* [Tech Setup](tasks/tech-setup.md)
-* [Live Streaming](tasks/live-stream.md)
+* [Welcoming](team-roles-church/welcoming.md)
+* [Service Leading](team-roles-church/service-leading.md)
+* [Bible Reading](team-roles-church/bible-reading.md)
+* [Morning Tea](team-roles-church/morning-tea.md)
+* [Counting Collection](team-roles-church/counting-collection.md)
+* [Setup and Pack up](team-roles-church/setup-pack-up.md)
+* [Tech Setup](team-roles-church/tech-setup.md)
+* [Live Streaming](team-roles-church/live-stream.md)
 
 ## Buildings and Grounds
 
