@@ -77,3 +77,4 @@ Welcomers are not merely _greeters_. The job is more than just to hand things ou
 * How not to be [The Church In the Fridge](https://sydneyanglicans.net/blogs/graceflow/the-church-in-the-fridge)
 
 (Last reviewed by Session: February 2021)
+

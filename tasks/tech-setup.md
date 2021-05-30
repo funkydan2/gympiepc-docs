@@ -27,40 +27,35 @@ Christians gather to hear God's word ([Acts 2:42](//ref.ly/acts2.42)), to sing G
 1. Connect the mixing desk to the amplifier
    * There are two short 'microphone' cable leads, which connect between the rear right-hand side of the amplifier to the top-right hand side of the mixing desk \(see below for mixing desk\).
 
-     ![](../.gitbook/assets/amplifier-back-input.jpg)
 2. Connect the amplifier to the speakers
 
    * Once again these _speakOn_ cables connect to the rear of the amplifier by pushing in, then rotating clockwise to secure the connection.
 
-   ![](../.gitbook/assets/amplifier-back-output.jpg)
+   ![](../.gitbook/assets/amplifier-back.jpg)
 
 3. Connect the Mac laptop to the VGA cable
 
    1. This requires the use of the dongle \(normally stored in the front pouch of the laptop bag\)
-   2. The dongle plugs into the MacBook. Connect the VGA cable by pressing in a secure using the two screws.
+   2. The dongle plugs into the MacBook. Connect the VGA cable by pressing in a secure using the two screws. (Note: in the photo below, we no longer use USB to record on the small laptop.)
 
    ![](../.gitbook/assets/computer-setup-projector.jpg)
 
 4. Connect the laptops to the mixing desk
    1. The small white Windows laptop is used for recording sermon audio.
 
-      * ~~Connect the grey USB cable between the sound desk \(see below\) and the laptop.~~ (Edit January 2021: the audio recording is now via an [analogue RCA cable](https://www.cablewholesale.com/products/audio-video-products/audio-video-cables/product-2rca-ste-1.php) plugged into the silver 'microphone input' on the small laptop.)
+      * Connect *Tape Output* on the mixing desk via an [analogue RCA cable](https://www.cablewholesale.com/products/audio-video-products/audio-video-cables/product-2rca-ste-1.php) into the silver 'microphone input' on the small laptop.
 
-      ![](../.gitbook/assets/computer-setup-audio.jpg)
-
-   2. The MacBook is \(sometimes\) used for video or backing track
-      
-      * Connect the stereo audio output \(RCA\) cables from the mixing desk into the headphone socket on the MacBook 
+   2. The MacBook is used for videos and backing tracks
+     
+      * Connect the double 1/8" plugs (guitar size) into channel 7/8 of the mixing desk into the headphone socket on the MacBook 
 5. Setup the mixing desk
 
    1. Plug microphone cables into channels 1-4.
-   2. Connect the USB cable for recording sermon audio.
-   3. \(If needed\) connect stereo cables from the MacBook into the red and white inputs to the right of the microphone inputs.
-   4. Set volume levels using the faders at the bottom of each channel. Master volume is controlled by the **red** fader on the right side.
+   2. Connect the *Tape Output* for recording
+   3. Connect stereo cables from the MacBook into chanel 7/8.
+   4. Set volume levels using the faders at the bottom of each channel. Master volume is controlled by the **two black** faders on the right side.
 
    ![](../.gitbook/assets/mixer.jpg)
-
-(Edit January 2021: We now have a different mixing desk.)
 
 ## Data Projector
 
@@ -120,8 +115,6 @@ If you need to change the order of songs
 1. Ensure the cable from the mixing desk is plugged in **before starting Audacity** (step 2).
 
 2. Start Audacity \(Blue and Orange icon\)
-
-3. ~~Select _USB Audio Codec_ from the input/microphone drop down.~~ (Edit January 2021: since we're using the microphone socket, this step is no longer necessary.)
 
 4. Set _input_ volume to approximately 0.80
 
