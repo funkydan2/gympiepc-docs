@@ -14,7 +14,7 @@ Our aim for our church service is that it will be:
 
 A few ways this shapes our practice are:
 
-1. We'll use 'outsider friendly' language. We'll introduce ourself by name and welcome visitors—even if we can't see any. We won't use too many technical/jargon words or phrases \(or we'll explain them\)—this includes both theological terms and acronyms/shorthand ways of talking about what we do as a church. We don't assume everyone is a believer, so we'll be thinking about who the 'we' is when we speak.
+1. We'll use 'outsider friendly' language. We'll introduce ourselves by name and welcome visitors—even if we can't see any. We won't use too many technical/jargon words or phrases \(or we'll explain them\)—this includes both theological terms and acronyms/shorthand ways of talking about what we do as a church. We don't assume everyone is a believer, so we'll be thinking about who the 'we' is when we speak.
 2. The gospel shapes our service as we 
    1. come to God in repentance and faith \(Mark 1:15\)
    2. sing to him with thankfulness \(Ephesians 5:19\)
@@ -44,7 +44,7 @@ The task of leading the service is to help the congregation connect with God and
 
 #### Notice/Announcements
 
-There are always things going on that we need to communicate to our church family: outreach or discipleship events, things tgat happen in people's lives, or in our community. There are a number of ways we communicate with our church family: email updates, printed bulletins, and in-church announcements. Announcements are part of what we do when we gather - they're not a disruption to 'worship' but are part of how we encourage one another to trust in Jesus and live for him.
+There are always things going on that we need to communicate to our church family: outreach or discipleship events, things that happen in people's lives, or in our community. There are a number of ways we communicate with our church family: email updates, printed bulletins, and in-church announcements. Announcements are part of what we do when we gather - they're not a disruption to 'worship' but are part of how we encourage one another to trust in Jesus and live for him.
 
 Here are a few things to think about with announcements:
 
