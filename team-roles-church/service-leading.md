@@ -61,5 +61,7 @@ Here are a few things to think about with announcements:
 
 [Better Church Announcements](https://genevapush.com/theonething/episode-187-better-church-announcements/) \(One Thing Podcast\)
 
-[Short video on giving better announcements](https://www.facebook.com/genevapush/videos/402003747838723) (on Facebook, from Geneva Push)
+{% embed url="https://www.facebook.com/watch/?v=402003747838723" %}
+
+
 
