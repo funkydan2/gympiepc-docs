@@ -41,11 +41,23 @@ The task of leading the service is to help the congregation connect with God and
 4. **Start on time**. This is an important way to love and welcome newcomers and visitors. They normally arrive early, or on time, and are probably feeling a bit anxious waiting for things to start.
 5. Start by welcoming people and introducing yourself—e.g. 'Good morning and welcome to Gympie Presbyterian Church. My name is Joe Bloggs, and it's great to have you with us, particularly if you are visiting or new today.'
 6. After welcoming people, say something about God. This could be a verse from the Bible, or a summary of why we gather, or a question that relates to the sermon or something happening during the service.
-7. If you're giving the notices, be brief and make sure you know what the announcement is about.
+
+#### Notice/Announcements
+
+There are always things going on that we need to communicate to our church family: outreach or discipleship events, things tgat happen in people's lives, or in our community. There are a number of ways we communicate with our church family: email updates, printed bulletins, and in-church announcements. Announcements are part of what we do when we gather - they're not a disruption to 'worship' but are part of how we encourage one another to trust in Jesus and live for him.
+
+Here are a few things to think about with announcements:
+
+1. **At most** two or three things should be announced from the front \(and it's ok if there are no verbal announcements\).
+2. Keep announcements on point. Ask yourself, does this announcement \(or the thing being announced\) encourage us to grow in knowing God, loving one another, and/or reaching our region?
+3. Be brief. 30 seconds to a minute per announcement is enough. _Don't waffle_. \(Maybe write down what you're going to say, or at least an outline.\)
+4. Without being manipulative or cheesy, inspire people to want to be involved. Maybe tell a story \(or find someone who can\) about why this announcement matters.
 
 ## Further Reading
 
 [Ten Tips for Leading Church Well](https://gotherefor.com/offer.php?intid=29247&changestore=true) - Some very helpful tips from Rory Shriner \(Matthias Media\)
 
 [Are We Shooting Ourselves in the Foot](https://ap.org.au/2020/08/27/are-we-shooting-ourselves-in-the-foot/) - Some critical reflections, with good suggestions, from Simon Manchester \(Australian Presbyterian\).
+
+[Better Church Announcements](https://genevapush.com/theonething/episode-187-better-church-announcements/) \(One Thing Podcast\)
 

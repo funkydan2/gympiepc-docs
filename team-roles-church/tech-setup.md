@@ -41,9 +41,8 @@ Christians gather to hear God's word \([Acts 2:42](https://ref.ly/acts2.42), [Ep
 
 4. Connect the laptops to the mixing desk 1. The small white Windows laptop is used for recording sermon audio.
    * Connect _Tape Output_ on the mixing desk via an [analogue RCA cable](https://www.cablewholesale.com/products/audio-video-products/audio-video-cables/product-2rca-ste-1.php) into the silver 'microphone input' on the small laptop.
-
-   1. The MacBook is used for videos and backing tracks
-      * Connect the double 1/8" plugs \(guitar size\) into channel 7/8 of the mixing desk into the headphone socket on the MacBook 
+   * The MacBook is used for videos and backing tracks
+     * Connect the double 1/8" plugs \(guitar size\) into channel 7/8 of the mixing desk into the headphone socket on the MacBook 
 5. Setup the mixing desk
 
    1. Plug microphone cables into channels 1-4.
@@ -53,9 +52,9 @@ Christians gather to hear God's word \([Acts 2:42](https://ref.ly/acts2.42), [Ep
 
    ![](../.gitbook/assets/mixer.jpg)
 
-{% embed url="https://youtu.be/PDP6IQhxBo4" %}
+{% embed url="https://youtu.be/PDP6IQhxBo4" caption="" %}
 
-{% embed url="https://youtu.be/KsW2uAI0gTQ" %}
+{% embed url="https://youtu.be/KsW2uAI0gTQ" caption="" %}
 
 ## Data Projector
 
