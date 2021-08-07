@@ -30,7 +30,7 @@ The task of leading the service is to help the congregation connect with God and
 ### Before Sunday
 
 1. Be praying for Sunday! Pray that when we gather for church, believers will be encouraged and strengthened and that non-believers would come and hear the good news of Jesus. Be praying for the preacher and others who'll be involved 'upfront'.
-2. Prepare a 'first prayer'. This prayer is usually a 'gospel prayer' where we praise God for who he is,  lead the congregation in confession and repentance, and remind ourselves of the assurance of forgiveness we have in Jesus.
+2. Prepare a 'first prayer'. This prayer is usually a 'gospel prayer' where we praise God for who he is,  lead the congregation in confession and repentance, and remind ourselves of the assurance of forgiveness we have in Jesus. \(See Further Reading for ideas on preparing congregational prayers.\)
 3. Look over the order of service and consider how you might introduce songs and other parts of the service.
 
 ### On Sunday
@@ -60,6 +60,8 @@ Here are a few things to think about with announcements:
 [Are We Shooting Ourselves in the Foot](https://ap.org.au/2020/08/27/are-we-shooting-ourselves-in-the-foot/) - Some critical reflections, with good suggestions, from Simon Manchester \(Australian Presbyterian\).
 
 [Better Church Announcements](https://genevapush.com/theonething/episode-187-better-church-announcements/) \(One Thing Podcast\)
+
+[5 Guidelines for Preparing Congregational Prayer](https://www.crossway.org/articles/5-guidelines-for-preparing-congregational-prayer/) \(Crossway\)
 
 {% embed url="https://www.facebook.com/watch/?v=402003747838723" %}
 
