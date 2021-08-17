@@ -55,11 +55,19 @@ Here are a few things to think about with announcements:
 
 ## Further Reading
 
+### General
+
 [Ten Tips for Leading Church Well](https://gotherefor.com/offer.php?intid=29247&changestore=true) - Some very helpful tips from Rory Shriner \(Matthias Media\)
 
 [Are We Shooting Ourselves in the Foot](https://ap.org.au/2020/08/27/are-we-shooting-ourselves-in-the-foot/) - Some critical reflections, with good suggestions, from Simon Manchester \(Australian Presbyterian\).
 
-[5 Guidelines for Preparing Congregational Prayer](https://www.crossway.org/articles/5-guidelines-for-preparing-congregational-prayer/) \(Crossway\)
+### Prayer
+
+[5 Guidelines for Preparing Congregational Prayer](https://www.crossway.org/articles/5-guidelines-for-preparing-congregational-prayer/) \(Crossway\) - Both practical ideas and theological reflection for public prayer.
+
+[Why Good Theology Matters in Prayer](https://www.crossway.org/articles/why-good-theology-matters-in-prayer/) (Crossway) - This article raises some good ideas for the *content* of our congregational prayers.
+
+### Announcements
 
 [Better Church Announcements](https://genevapush.com/theonething/episode-187-better-church-announcements/) \(One Thing Podcast\)
 
