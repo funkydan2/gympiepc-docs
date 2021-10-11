@@ -67,6 +67,8 @@ Here are a few things to think about with announcements:
 
 [Why Good Theology Matters in Prayer](https://www.crossway.org/articles/why-good-theology-matters-in-prayer/) (Crossway) - This article raises some good ideas for the *content* of our congregational prayers.
 
+[32 Principles for Public Prayer](https://www.9marks.org/article/thirty-two-principles-public-prayer/) (9Mark) - A quick summary of things to think about when praying in public.
+
 ### Announcements
 
 [Better Church Announcements](https://genevapush.com/theonething/episode-187-better-church-announcements/) \(One Thing Podcast\)
