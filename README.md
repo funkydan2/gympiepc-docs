@@ -6,3 +6,4 @@ If you're from another church or ministry, you're free to use or adapt any of th
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
+(The home for these documents [has been moved](https://maze-globe-d15.notion.site/Job-Descriptions-f3e7df0cdefe483c81c40928e7b5ba5a). This site no longer has the most up-to-date version.)
