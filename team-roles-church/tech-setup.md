@@ -31,23 +31,27 @@ Christians gather to hear God's word ([Acts 2:42](https://ref.ly/acts2.42), [Eph
     * Once again these _speakOn_ cables connect to the rear of the amplifier by pushing in, then rotating clockwise to secure the connection.
 
     ![](../.gitbook/assets/amplifier-back.jpg)
-3.  Connect the blue laptop to the VGA cable
-
-    1. This requires the use of the HDMI dongle. The dongle plugs into the blue laptop. (Note: in the photo below, we no longer use USB to record on the small laptop.)
-
-    ![](../.gitbook/assets/computer-setup-projector.jpg)
-4. Connect the laptops to the mixing desk 1. The small white Windows laptop is used for recording sermon audio.
-   * Connect _Tape Output_ on the mixing desk via an [analogue RCA cable](https://www.cablewholesale.com/products/audio-video-products/audio-video-cables/product-2rca-ste-1.php) into the input of the red audio box. Plug the USB cable of the red audio box into the white laptop.
-   * The blue laptop is used for videos and backing tracks
-     * Connect the double 1/8" plugs (guitar size) into channel 7/8 of the mixing desk into the headphone socket on the laptop&#x20;
-5.  Setup the mixing desk
-
-    1. Plug microphone cables into channels 1-4.
-    2. Connect the _Tape Output_ for recording
-    3. Connect stereo cables from the MacBook into channel 7/8.
-    4. Set volume levels using the faders at the bottom of each channel. Master volume is controlled by the **two black** faders on the right side.
+    ![](../.gitbook/assets/mixing-desk.jpg)
+3. Connect the MacBook Air to the VGA cable
+    1. This requires the use of the white Thunderbolt-VGA dongle. The dongle plugs into the Macbook.
+4. Connect the laptops to the mixing desk.
+    1. The small white Windows laptop is used for recording sermon audio.
+          - Connect *Tape Output* on the mixing desk via an [analogue RCA cable](https://www.cablewholesale.com/products/audio-video-products/audio-video-cables/product-2rca-ste-1.php) into the *input* of the red audio box. Plug the USB cable of the red audio box into the white laptop.
+    2. The MacBook Air is used for videos and backing tracks
+          - Connect the double 1/8" plugs (guitar size) into channel 7/8 of the mixing desk into the headphone socket on the laptop.
+          - Plug the small end of this cable (looks like a headphone cable) into the headphone socket on the MacBook (the MacBook has replaced the blue laptop in this picture).
+          ![](../gitbook/assets/desk-setup.jpg)
+  5. Setup the mixing desk
+      1. Plug microphone cables into channels 1-4.
+      2. Connect the *Tape Output* for recording
+      3. Connect stereo cables from the MacBook Air into channel 7/8.
+      4. Turn on the mixing desk. You must turn on *both* power switches at the rear of the desk.
+      5. Turn on the amplifier.
+      6. Set volume levels using the faders at the bottom of each channel. Master volume is controlled by the **two black** faders on the right side.
 
     ![](../.gitbook/assets/mixer.jpg)
+
+(In the videos below, the old white MacBook has been replaced by a MacBook Air.)
 
 {% embed url="https://youtu.be/PDP6IQhxBo4" %}
 
@@ -67,7 +71,7 @@ Christians gather to hear God's word ([Acts 2:42](https://ref.ly/acts2.42), [Eph
 
 ### Getting Lyrics onto the Projector Screen
 
-1. Start [To select the first song, double-click on the song title. (You only need to do this to get out of the loop.)OpenLP](https://openlp.org/). (The icon on the windows dock is a white rectangle. It takes a long time to open the application. Be patient!)
+1. Start [OpenLP](https://openlp.org/) by clicking the blue circle icon in the MacOS dock.
 2. Double click on the first entry in the Service Manager. Normally this will be _Before Service_. ![Service Manager](../.gitbook/assets/openlp-service-manager.png)
 3. This should start a loop of notices slides.
 4. To select the first song, double-click on the song title. (You only need to do this to get out of the loop.)
@@ -109,6 +113,26 @@ If you need to change the order of songs
 4. You can reorder the songs in the Service Manager by clicking the blue arrows.
 
 ![Reorder songs using the blue up and down arrows (Step 4)](../.gitbook/assets/reorder-songs.jpg)
+
+## How to add a video or sermon slides (OpenLP)
+
+Incorporating videos or sermon slides follows a very similar process. These instructions assume the video/slides are on a USB drive.
+
+1. Plug in the USB drive.
+2. In the *Library* pane, select either the *Presentations* (for slides) or the *Media* (for videos) section.
+
+    ![Notification_Center.png](../gitbook/assets/notification_center.png)
+
+3. To import a new file, click the blue and white *Load* icon.
+4. In the ‘Open/Save’ dialog, scroll down to the ‘Location’ section and click on the USB drive (UNTITLED in this example). Then select the file and click ‘Open’. (N.b. if you load the video/presentation directly from the USB drive you *must keep the drive plugged in during the service*.
+
+    ![Screen Shot 2022-09-19 at 11.45.43 am.png](../gitbook/assets/Screen_Shot_2022-09-19_at_11.45.43_am.png)
+
+5. Then select the Presentation/Media you want to add to the service and click the + icon.
+
+    ![Screen Shot 2022-09-19 at 11.47.26 am.png](../gitbook/assets/Screen_Shot_2022-09-19_at_11.47.26_am.png)
+
+6. The media will be added to the bottom of the ‘Service Manager’ (right hand pane). Items can be recorded by selecting and then clicking the ⬆️ and ⬇️ buttons at the bottom of the pane.
 
 ## Record Sermon Audio
 
