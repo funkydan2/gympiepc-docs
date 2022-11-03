@@ -49,7 +49,7 @@ Christians gather to hear God's word ([Acts 2:42](https://ref.ly/acts2.42), [Eph
       5. Turn on the amplifier.
       6. Set volume levels using the faders at the bottom of each channel. Master volume is controlled by the **two black** faders on the right side.
 
-    ![](../.gitbook/assets/mixer.jpg)
+      ![](../.gitbook/assets/mixing-desk.jpg)
 
 (In the videos below, the old white MacBook has been replaced by a MacBook Air.)
 
@@ -114,7 +114,7 @@ If you need to change the order of songs
 
 ![Reorder songs using the blue up and down arrows (Step 4)](../.gitbook/assets/reorder-songs.jpg)
 
-## How to add a video or sermon slides (OpenLP)
+### How to add a video or sermon slides (OpenLP)
 
 Incorporating videos or sermon slides follows a very similar process. These instructions assume the video/slides are on a USB drive.
 
