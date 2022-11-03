@@ -6,4 +6,4 @@ If you're from another church or ministry, you're free to use or adapt any of th
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-(The home for these documents [has been moved](https://gpc-docs.super.site). This site no longer has the most up-to-date version.)
+(The home for these documents [has been moved](https://gympiepresbyterian.org.au/docs). This site no longer has the most up-to-date version.)
